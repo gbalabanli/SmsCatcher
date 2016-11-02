@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SmsCatcherActivity!</string>
+	<string name="app_name">SmsCatcher</string>
+	<string name="sender">tevfik2012@gmail.com</string>
+	<string name="sender2">tevfik2012</string>
+	
+
+</resources>
